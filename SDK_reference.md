@@ -1,3 +1,5 @@
+![IMG-20240502-WA0007](https://github.com/pi-apps/pi-platform-docs/assets/119831384/bc55262a-e250-45cf-88a6-dbd620d0270f)
+![IMG-20240502-WA0006](https://github.com/pi-apps/pi-platform-docs/assets/119831384/820303fc-ab7e-4f4e-95e9-957a1279b44a)
 # Client SDK reference
 
 ## Initialization
